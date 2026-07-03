@@ -12,6 +12,6 @@ Things I'm covering:
 
 Current Focus: **Python Data Model from Python Docs**
 
-| Format | Resource                                                                | Progress | Notes |
-| ------ | ----------------------------------------------------------------------- | -------- | ----- |
-| EPUB   | [Python Data Model](https://docs.python.org/3/reference/datamodel.html) | ✅       |       |
+| Format | Resource                                                                | Progress | Notes                                                              |
+| ------ | ----------------------------------------------------------------------- | -------- | ------------------------------------------------------------------ |
+| EPUB   | [Python Data Model](https://docs.python.org/3/reference/datamodel.html) | ⬜       | https://github.com/ankit-231/basic-practice/tree/main/python_stuff |
